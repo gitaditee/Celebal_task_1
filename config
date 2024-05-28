@@ -1,0 +1,16 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[remote "Celebal_task_1"]
+	url = https://github.com/gitaditee/Celebal_task_1.git
+	fetch = +refs/heads/*:refs/remotes/Celebal_task_1/*
+[remote "Celebal_task1"]
+	url = https://github.com/gitaditee/Celebal_task_1.git
+	fetch = +refs/heads/*:refs/remotes/Celebal_task1/*
+[remote "task1"]
+	url = task1
+	fetch = +refs/heads/*:refs/remotes/task1/*
